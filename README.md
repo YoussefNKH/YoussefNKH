@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YoussefNKH
-- 👀 I’m interested in Data sc  
-- 🌱 I’m currently learning Node js | mongo db | Matrix calculation with C
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Data sc  and OOP
+- 🌱 I’m currently learning Node js | mongo db | Matrix calculation with C 
+- 💞️ I’m looking to collaborate on OOP Projects
 - 📫 How to reach me youssef1nakhli@gmail.com
 
 <!---
